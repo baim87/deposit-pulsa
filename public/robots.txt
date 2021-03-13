@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deposit-pulsa-10k.web.app/sitemap.xml
